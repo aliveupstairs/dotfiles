@@ -19,3 +19,9 @@
 [submodule ".local/src/tmpmail"]
 	path = .local/src/tmpmail
 	url = git@github.com:sdushantha/tmpmail.git
+[submodule ".local/src/deer"]
+	path = .local/src/deer
+	url = git@github.com:vifon/deer.git
+[submodule ".local/src/jaro"]
+	path = .local/src/jaro
+	url = git@github.com:isamert/jaro.git
